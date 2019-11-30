@@ -1,0 +1,17 @@
+
+[global] 
+	netbios name = stewa2m2-centos
+	workgroup = workgroup
+[angular-app]
+	path = /angular-app
+	readonly = no
+[developers]
+	path = /angular-app/developers
+	readonly = no
+
+
+
+
+
+
+
